@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI.Interface", "CLI.Interface\CLI.Interface.csproj", "{3EA7C89F-D379-4A1A-AEC5-07A2BC3932E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI.UI", "CLI.UI\CLI.UI.csproj", "{3EA7C89F-D379-4A1A-AEC5-07A2BC3932E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI.Core", "CLI.Core\CLI.Core.csproj", "{22FAB05C-85EE-4320-AC4A-6382A50A5E5E}"
 EndProject

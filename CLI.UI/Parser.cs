@@ -1,4 +1,4 @@
-using CLI.Core.Commands;
+using CLI.Core.Interfaces;
 
 namespace CLI;
 
@@ -9,7 +9,7 @@ internal class Parser
     /// </summary>
     /// <param name="input"></param>
     /// <returns>Возвращает набор команд либо значков пайпа либо переменную среды</returns>
-    internal List<Command> Parse(string input)
+    internal List<CommandDTO> Parse(string input)
     {
         return null;
     }

@@ -10,7 +10,11 @@ public abstract class Command
         Arguments = arguments;
     }
 
-    public void Execute(Environment environment)
+    /// <summary>
+    /// Обращается в к Environment
+    /// Возвращает код возврата и строку ошибки
+    /// </summary>
+    public void Execute()
     {
         
     }

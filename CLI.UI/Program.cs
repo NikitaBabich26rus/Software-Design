@@ -44,6 +44,9 @@ public class Main
     private string Process(string input)
     {
         var result = _parser.Parse(input);
+        /// Вызывается CommandService CreateTree
+        /// Вызывается CommandService ExecuteTree
+        /// Вызываем Output
         
         return String.Empty;
     }
